@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.5.4.RELEASE
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_60
+Built-By: DBejinar
+Created-By: IntelliJ IDEA
+Main-Class: ${start-class}
+

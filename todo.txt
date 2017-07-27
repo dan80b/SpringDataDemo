@@ -1,0 +1,6 @@
+1. basics crud operations
+2. find by conditions
+3. pagination
+4. find by query jpql/native sql
+5. java 8 streams
+6. H2 datasource with demo script
